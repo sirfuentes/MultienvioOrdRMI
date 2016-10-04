@@ -1,0 +1,3 @@
+grant CodeBase "file:/C:\Users\usuario\Desktop\Prácticas SSDD\Practica 4\Entrega P4\CentralizedGroups\src\Client/" {
+   permission java.security.AllPermission;
+};
